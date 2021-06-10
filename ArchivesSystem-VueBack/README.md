@@ -1,16 +1,5 @@
-# vue-admin(3.0)
+# 档案系统-管理员前端
 
-## 使用的组件
-```
-    vuex  状态分发
-```
-## 工具类
-``` bash
-
-```
-## Build Setup
-
-``` bash
 # install dependencies
 npm install
 
